@@ -52,7 +52,7 @@
     alt="GitHub Streak" />
 
   <img width="390"
-    src="https://github-readme-stats.vercel.app/api?username=RYUU05&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=RYUU05&show_icons=true&theme=react&border_radius=10&rank_icon=github"
     alt="GitHub Streak" />
 
   <br>
