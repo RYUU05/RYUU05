@@ -42,26 +42,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 
-<div align="center">
-
-  <img width="390"
-    src="https://streak-stats.demolab.com?user=RYUU05&theme=react&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak" />
-
-  <img width="390"
-    src="https://github-readme-stats.vercel.app/api?username=RYUU05&show_icons=true&theme=react&border_radius=10&rank_icon=github"
-    alt="GitHub Streak" />
-
-  <br>
-
-  <img width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYUU05&layout=compact&theme=react&border_radius=10&langs_count=8&hide=html,css"
-    alt="Top Languages" />
-
-</div>
 
 <br/><br/>
 <hr/>
