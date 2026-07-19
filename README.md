@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🔭 I'm currently working on **SDU Event Manager**
+🔭 I'm currently working on **BEAM**
 
 💬 Ask me about **Flutter, Dart, REST APIs... or anything [here](https://github.com/RYUU05/RYUU05/issues)**
 
